@@ -12,7 +12,11 @@ export default {
       'gradient2': '#FFDA56',
       'gradient3': '#FFD7A6'
     },
-    
+    fontFamily: {
+      'myRubic': ['Rubik'],
+      'myKrub': ['Krub']
+    },
+
     extend: {
     },
   },
