@@ -1,5 +1,5 @@
 import { FC } from "react";
-import HomePage from "@/components/Home/HomePage";
+import HomePage from "@/pages/Home/HomePage";
 // import Container from "@/components/Container";
 
 const App: FC = () => {
